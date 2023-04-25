@@ -48,7 +48,7 @@ Click share icon ->  export full configuration to clipboard
         "tlsSettings": { "serverName": "..." },
         "wsSettings": {
           "headers": { "Host": "..." },
-          "path": "/1c292a50151a/"
+          "path": "/.../"
         }
       },
       "tag": "proxy"
@@ -112,7 +112,7 @@ Setting -> Xray Config
         "tlsSettings": { "serverName": "..." },
         "wsSettings": {
           "headers": { "Host": "..." },
-          "path": "/1c292a50151a/"
+          "path": "/.../"
         }
       },
       "tag": "proxy"
