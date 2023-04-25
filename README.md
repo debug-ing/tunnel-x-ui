@@ -8,9 +8,17 @@
 Vmess WS TLS 
 
 خب بعد از این که این کارو کردیم این کانفیگ رو داخل Nekoray وارد میکنید. بعد از اون میریم که کانفیگ کامل رو اکسپورت کنیم به چه شکلی؟ به این شکل 
+
+```bash
 Right click -> share -> export v2ray config
+```
+
 اگر هم مخواید با استفاده از v2rayNG داخل اندروید اینکارو کنید کافیه 
+
+```bash
 Click share icon ->  export full configuration to clipboard
+```
+
 
 خب بعد از اون این رو داخل یک VsCode یا هر ابزار دیگه قرار میدیم و میریم قسمت outbounds که برای مثال به این شکله
 
@@ -54,7 +62,10 @@ Click share icon ->  export full configuration to clipboard
 خب این رو کپی میکنیم و میریم به سرور داخل ایرانمون یا اون سروری که قراره تانل کنه
 
 اول وارد X-UI میشیم و بعد به این قسمت میریم
+
+```bash
 Setting -> Xray Config
+```
 
 و داخلش اسکرول میکنیم و میایم به قسمت outbounds که بصورت عادی به این شکله
 
